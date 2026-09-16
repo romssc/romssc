@@ -10,3 +10,5 @@ My stack is Go, Python, PostgreSQL, Redis, Kafka, Docker, Git, Linux. Also I kno
 - A good speaker and strong at public speaking.
 - I don’t like leaving things unfinished, so I suffer from perfectionism.
 - Currently pursuing a master's degree in the "Intelligent Systems and Data Analysis in the Humanities" program.
+
+<img width="890" height="300" alt="212284136-03988914-d899-44b4-b1d9-4eeccf656e44" src="https://github.com/user-attachments/assets/2799ea92-5342-4075-a524-abbb706e0ced" />
