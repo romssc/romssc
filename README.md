@@ -1,4 +1,4 @@
-### Hey there! 👋
+### Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" />
 
 I'm Roman, a backend developer based in Moscow, Russia. I'm trying to find a job right now, so I'm building pet-projects, diving deep into tech documentations and practicing algorithms on LeetCode.
 
