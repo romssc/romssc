@@ -2,7 +2,7 @@
 
 I'm Roman, a backend developer based in Moscow, Russia. I'm trying to find a job right now, so I'm building pet-projects, diving deep into tech documentations and practicing algorithms on LeetCode.
 
-My stack is Go, Python, PostgreSQL, Redis, Kafka, Docker, Git, Linux. Also I know how to test and ship what I create.
+My stack is Go, Python, PostgreSQL, Redis, Apache Kafka, Docker, Git, Linux. Also I know how to test and ship what I create.
 
 **Facts:**
 - I only eat soup for breakfast.
